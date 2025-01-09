@@ -1,9 +1,9 @@
-# Chess Clicker - The Ultimate Chess Idle Game
+# [Chess Clicker](https://chessclicker.com) - The Ultimate Chess Idle Game
 
 
 ## Game Overview
 
-Chess Clicker transforms traditional chess into an engaging idle game where each click represents a move in your chess journey. It uniquely combines the strategic depth of chess with addictive clicker game mechanics, creating an innovative gaming experience that appeals to both chess enthusiasts and casual players.
+[Chess Clicker](https://chessclicker.com) transforms traditional chess into an engaging idle game where each click represents a move in your chess journey. It uniquely combines the strategic depth of chess with addictive clicker game mechanics, creating an innovative gaming experience that appeals to both chess enthusiasts and casual players.
 
 ## Core Game Mechanics
 
